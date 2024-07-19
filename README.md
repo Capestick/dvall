@@ -12,7 +12,7 @@ This is a DV (Delete Vehicle) script for QBCore framework. The script includes e
 - **Exclusion Zones**: Define areas where vehicles should not be deleted.
 - **Commands**:
   - `/dvauto`: Automatically delete vehicles.
-  - `dv timer`: Set a timer for automatic vehicle deletion.
+  -  Set a timer for automatic vehicle deletion in the config.lua.
 
 ## Dependencies
 
