@@ -60,5 +60,3 @@ If you encounter any issues or have any questions, feel free to open an issue on
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Feel free to customize this README further according to your specific needs and details.
