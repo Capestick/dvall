@@ -38,7 +38,8 @@ This is a DV (Delete Vehicle) script for QBCore framework. The script includes e
 
 1. Open the `config.lua` file to configure exclusion zones and timer settings.
 
-2. Customize the exclusion zones and timer settings as per your requirements.
+2. Customize the exclusion zones and timer settings as per your needs.
+
 
 ## Usage
 
