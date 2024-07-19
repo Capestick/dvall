@@ -1,7 +1,7 @@
 # ky-dvall
 ---
 
-# DV Script with Exclusion Zones for QBCore
+# KY-DVALL Script for QBCore
 
 ## Overview
 
